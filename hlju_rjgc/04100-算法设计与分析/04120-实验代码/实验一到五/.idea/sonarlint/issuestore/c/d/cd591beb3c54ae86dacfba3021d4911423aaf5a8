@@ -1,0 +1,22 @@
+
+ª
+java:S1192C"bDefine a constant instead of duplicating this literal "---------------------------------" 3 times.(Êô²ºúÿÿÿÿ8”ÕÌçî1J$6f4b01a0-2c7d-4b5d-8400-d9f0f72e503a
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( Ø·¼şÿÿÿÿ8–ÕÌçî1J$0d5a8c84-8a65-4f80-9833-707828556d25
+r	java:S106,"+Replace this use of System.out by a logger.(§éÜ¦ûÿÿÿÿ8¦ÕÌçî1J$f011c452-c27a-489e-877f-ae86b35a068d
+r	java:S1062"+Replace this use of System.out by a logger.(µº€˜ıÿÿÿÿ8§ÕÌçî1J$094aab0b-f5b0-4af2-a882-6c3cc7b8f32e
+m	java:S1064"+Replace this use of System.out by a logger.(Óø±Ñ8§ÕÌçî1J$370f7d60-5e8b-4ef3-8ea6-27a6be58ea2c
+r	java:S1066"+Replace this use of System.out by a logger.(ÈÆ„øÿÿÿÿ8¨ÕÌçî1J$26f5479b-d5e1-4f92-8d9d-b463eb9d6802
+m	java:S106;"+Replace this use of System.out by a logger.(ûóé¼8©ÕÌçî1J$e225fc78-277d-408b-9263-fa78f96193dd
+r	java:S106B"+Replace this use of System.out by a logger.(“¬ŒÆÿÿÿÿÿ8ªÕÌçî1J$f0c9eea5-4111-46c6-ae8c-ed9208ac4a00
+r	java:S106C"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8ªÕÌçî1J$b336f443-7945-465a-9047-99d1be077d21
+r	java:S106D"+Replace this use of System.out by a logger.(Î¦Øşÿÿÿÿ8«ÕÌçî1J$cb35dddf-7789-457d-8a5e-0d6b06da85db
+r	java:S106E"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8«ÕÌçî1J$64209178-b266-41c0-896d-190496c066ef
+”
+java:S3457K"Q%n should be used in place of \n to produce the platform-specific line separator.(÷ã½·8¯ÕÌçî1J$00417b79-5c29-407d-a0ab-9f319da07ca1
+m	java:S106K"+Replace this use of System.out by a logger.(÷ã½·8±ÕÌçî1J$f6e29530-463d-4069-9bc8-8ef86c3f5adc
+r	java:S106M"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8³ÕÌçî1J$6b01b1c4-b8a3-478d-9e7f-5001bdb39af1
+r	java:S106N"+Replace this use of System.out by a logger.(À»«ãşÿÿÿÿ8³ÕÌçî1J$eb800301-4a28-4e5b-bc32-efdf63a7d096
+v
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8í’Íçî1J$01940e5d-236a-442d-beb8-89d2996dd427
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8í’Íçî1J$d9b5af6a-9ee5-40cc-9781-afaec471fb74

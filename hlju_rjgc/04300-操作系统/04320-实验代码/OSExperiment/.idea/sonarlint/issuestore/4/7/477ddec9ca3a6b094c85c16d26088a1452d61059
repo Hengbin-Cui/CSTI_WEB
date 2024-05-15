@@ -1,0 +1,27 @@
+
+‘
+java:S1192ƒ"HDefine a constant instead of duplicating this literal "      (" 3 times.(¹·ó‘şÿÿÿÿ8†Ğ¸Ú÷1J$0a3b13c5-1d31-47a1-a4a8-a3921b25076a
+w
+java:S10667"/Merge this if statement with the enclosing one.(®ÓÜäıÿÿÿÿ8‡Ğ¸Ú÷1J$4cf57d34-1593-482c-8393-f2de63bd9152
+h
+java:S1659," Declare "pr" on a separate line.(±÷•ôıÿÿÿÿ8«Ñ¸Ú÷1J$eff4ffc2-6c92-41ac-a9a1-1e1ece0e092b
+g
+java:S1659-"$Declare "freeMr" on a separate line.(ÃÑ×8¬Ñ¸Ú÷1J$e5c727ff-556a-4cd3-bce3-aa658cbae39c
+m	java:S106("+Replace this use of System.out by a logger.(ÅÍÂÅ8¬Ñ¸Ú÷1J$b98d575e-9a33-4713-8541-1ef545962a48
+}	java:S1250"<This block of commented-out lines of code should be removed.(êù³{8¸Ñ¸Ú÷1J$37c0f1fd-cf91-40ff-994d-3e5ac7392b3a
+r	java:S106M"+Replace this use of System.out by a logger.(¥§„¼ûÿÿÿÿ8»Ñ¸Ú÷1J$ed1a9ecd-caf0-4fd2-af91-29692967cded
+m	java:S106P"+Replace this use of System.out by a logger.(äê®8»Ñ¸Ú÷1J$df6b8ec5-d4ff-4cb2-86d2-72ff350d69cb
+h
+java:S1659b" Declare "pr" on a separate line.(±÷•ôıÿÿÿÿ8¼Ñ¸Ú÷1J$4afc4012-5522-43f7-b770-fffb0f88bd65
+m	java:S106^"+Replace this use of System.out by a logger.(™İğ8½Ñ¸Ú÷1J$95130a1d-64b9-4879-a434-183b22fc494a
+m	java:S106p"+Replace this use of System.out by a logger.(ÒúŠ8ÄÑ¸Ú÷1J$d4de4d2f-09a4-403f-b4c1-3a62482a3033
+r	java:S106x"+Replace this use of System.out by a logger.(±ô¶Ôúÿÿÿÿ8ÆÑ¸Ú÷1J$4a63ae16-48b8-4686-bf60-367dd499c380
+s	java:S106‚"+Replace this use of System.out by a logger.(Ù®Äÿÿÿÿÿÿ8ÉÑ¸Ú÷1J$1f07a1f4-a0a9-46eb-99b8-6b846c9866b1
+s	java:S106ƒ"+Replace this use of System.out by a logger.(¹·ó‘şÿÿÿÿ8ËÑ¸Ú÷1J$5f620179-53bc-4b90-973e-cf2d7cc7f9d7
+n	java:S106†"+Replace this use of System.out by a logger.(¾õ¹Ï8ÍÑ¸Ú÷1J$1195c94d-6fb9-4d0c-bc9d-768a19000b72
+n	java:S106ˆ"+Replace this use of System.out by a logger.(ô¨óô8ÍÑ¸Ú÷1J$7f21778d-8d4a-4f13-aa1d-8399f6906890
+s	java:S106Œ"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÏÑ¸Ú÷1J$bd82f3f4-8b2a-49d3-a19b-40db4727dc8b
+s	java:S106"+Replace this use of System.out by a logger.(“’«úÿÿÿÿ8ĞÑ¸Ú÷1J$4c6343b9-488d-47d6-b876-ee10f8eacffa
+s	java:S106”"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÑÑ¸Ú÷1J$460486ae-5aac-4100-8567-5748a2fff2e9
+p
+java:S1128"(Remove this unused import 'lombok.Data'.(÷í«ÿÿÿÿÿ8ï¡½Ú÷1J$3a7b8c1a-05e6-4fdf-a871-697a9674a826
